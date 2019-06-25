@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IntentMADE</string>
+    <string name="move_activity">PINDAH ACTIVITY</string>
+    <string name="move_with_data">PINDAH ACTIVITY DENGAN DATA</string>
+    <string name="move_with_object">PINDAH ACTIVITY DENGAN OBJECT</string>
+    <string name="dial_number">DIAL NUMBER</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="choose_number">Pilih angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="object_received">Object Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+
+</resources>
